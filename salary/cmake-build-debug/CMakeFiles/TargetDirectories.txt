@@ -1,0 +1,3 @@
+/Users/mariana/Desktop/salary/cmake-build-debug/CMakeFiles/salary.dir
+/Users/mariana/Desktop/salary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariana/Desktop/salary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

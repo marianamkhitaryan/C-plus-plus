@@ -1,0 +1,3 @@
+/Users/mariana/Desktop/converter/cmake-build-debug/CMakeFiles/converter.dir
+/Users/mariana/Desktop/converter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariana/Desktop/converter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

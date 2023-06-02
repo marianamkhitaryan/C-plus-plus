@@ -1,0 +1,5 @@
+# ninja log v5
+351	387	1670148739581129737	3digitNumbers	7ecff20bba2a8a71
+3	351	1670148739542942707	CMakeFiles/3digitNumbers.dir/main.cpp.o	e9e3d355e70545ce
+3	341	1670499676955819880	CMakeFiles/3digitNumbers.dir/main.cpp.o	ce498027b1a22670
+341	369	1670499676985651346	3digitNumbers	7ecff20bba2a8a71

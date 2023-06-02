@@ -1,0 +1,3 @@
+/Users/mariana/Desktop/evenNumber/cmake-build-debug/CMakeFiles/evenNumber.dir
+/Users/mariana/Desktop/evenNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariana/Desktop/evenNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
